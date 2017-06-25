@@ -1,4 +1,4 @@
-# Angular 2 Watch Us Build Racing App
+# [DEPRECATED] Angular 2 Watch Us Build Racing App
 
 ## About this App
 
