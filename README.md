@@ -8,3 +8,8 @@ This app expands on the one built throughout the course [Accelerating Through An
 
  * Run `npm install` to install the node modules
  * Start the app with `npm start`
+ 
+## Permission errors when running the app
+
+You may experience persmission errors in macOS while attempting to run the app for the first time. Run
+`chmod a+x node_modules/.bin/NAME_OF_FILE` against the files that generate the permission errors. The app should run fine afterwards. 
