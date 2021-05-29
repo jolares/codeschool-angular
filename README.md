@@ -1,4 +1,7 @@
-# [DEPRECATED] Angular 2 Watch Us Build Racing App
+# Angular 2 Watch Us Build Racing App
+
+> DEPRECATED: This project is marked as outdated and its no longer supported.
+
 
 ## About this App
 
